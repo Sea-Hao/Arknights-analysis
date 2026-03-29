@@ -2,7 +2,7 @@
 
 > 一份面向游戏策划岗位的作品集分析——从商业化数值、玩法资源养成到平台期/成长期经济系统，系统性拆解这款上线逾六年仍保持稳定流水的二次元策略游戏。
 
-**[→ 在线查看](https://Sea-Hao.github.io/arknights-analysis)**
+**[→ 在线查看](arknights-analysis.html)**
 
 ---
 
